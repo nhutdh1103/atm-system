@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "hoek": ">=4.2.1",
+    "react-scripts": "^5.0.1"
+  }
+}

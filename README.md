@@ -1,9 +1,13 @@
-# atm-system
-# PROJECT CS 152 - ATM SYSTEM
+# FINAL PROJECT CMPE 131 - ATM SYSTEM
 
 ## Group members
-- Quyen Nguyen 
-- Do Tran
+- Thien Tran
+- Thi Tran
+- Tien Bui
+- Khoa Le
+- Joey Manivong
+- Octaviano Ortiz
+- Nhat Nguyen
 
 ## Description
 
