@@ -5,17 +5,17 @@ body > #root > div {
 .atm {
     margin: 0 auto;
     margin-top: 4vh;
-    color: white;
+    color: rgb(0, 0, 0);
     width: 80%;
     text-align: center;
-    background-color: #282c34;
+    background-color: #b8fac1;
     height: 90vh;
 }
 
 .atm h1 {
     padding-top: 40px;
     padding-bottom: 20px;
-    color: yellow;
+    color: rgb(117, 138, 223);
     font-size: 45px;
 }
 
@@ -35,7 +35,7 @@ body > #root > div {
     margin-left: 28%;
     float: left;
     width: 9%;
-    background-color: red;
+    background-color: rgb(143, 203, 221);
     font-size: 17px;
 }
 
