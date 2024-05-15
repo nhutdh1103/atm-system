@@ -32,3 +32,20 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## How can I run the application on my local machine
+
+Here are the steps to start our project on your local machine:
+
+- Go to our Github repository: https://github.com/nhutdh1103/atm-system.git
+- Clone our project to your local machine.
+- At the project directory, open the 2 terminals at 2 following directories:.
+    ● /server
+    ● /client
+- Install Nodejs on your machine: https://nodejs.org/en/download/
+- Run on each terminal the following commands:
+    ● npm i
+    ● npm start
+- Check out our project:
+    ● Web-based interface: http://localhost:3000/
+    ● ATM machine interface: http://localhost:3000/atm
